@@ -1,0 +1,13 @@
+{
+  "grin.ambient":  { "sounds": ["grinmod:grin_ambient"] },
+  "grin.whisper":  { "sounds": ["grinmod:grin_whisper_1", "grinmod:grin_whisper_2", "grinmod:grin_whisper_3"] },
+  "grin.scream":   { "sounds": ["grinmod:grin_scream"] },
+  "grin.laugh":    { "sounds": ["grinmod:grin_laugh"] },
+  "grin.vanish":   { "sounds": ["grinmod:grin_vanish"] },
+  "heartbeat":     { "sounds": ["grinmod:heartbeat"] },
+  "stinger":       { "sounds": ["grinmod:stinger"] },
+  "hollow.drone":  { "sounds": ["grinmod:hollow_drone"] },
+  "hollow.static": { "sounds": ["grinmod:hollow_static"] },
+  "hollow.breath": { "sounds": ["grinmod:hollow_breath"] },
+  "hollow.smile":  { "sounds": ["grinmod:hollow_smile"] }
+}

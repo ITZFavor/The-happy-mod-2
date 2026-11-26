@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "grinmod",
+  "version": "${version}",
+  "name": "The Grin",
+  "description": "Something is smiling at you.",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.grin.GrinMod"],
+    "client": ["com.grin.GrinClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
